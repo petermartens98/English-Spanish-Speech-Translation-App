@@ -7,7 +7,6 @@
 # Import necessary libraries
 import speech_recognition as sr
 from googletrans import Translator
-from pprint import pprint
 
 # Initialize recognizer
 r = sr.Recognizer()
