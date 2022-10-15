@@ -1,4 +1,4 @@
-# Speech Translation App
+# English to Spanish Voice Translation App
 # Version 1
 
 # Python program that takes in microphone audio and then
